@@ -1,0 +1,3 @@
+[submodule "gd-modules"]
+	path = gd-modules
+	url = https://github.com/gabrieldomene/gd-modules
